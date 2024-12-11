@@ -1,0 +1,8 @@
+[package]
+name = "day1a"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+direction = "0.18"
+grid_2d = "0.15"
